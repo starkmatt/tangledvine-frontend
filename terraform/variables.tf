@@ -1,5 +1,5 @@
 variable "project_name" {}
-variable "region"{}
+variable "region" {}
 variable "azs" {}
 variable "cidr_block_all"{}
 variable "vpc_cidr"{}
